@@ -7,4 +7,5 @@
 
 <h1> High fidelity Mock Up </h1>
 <p>The documentation was made in UXpin as well</p>
+
 <a>https://preview.uxpin.com/0329fe43bc624072017df03f4ad8d91716f6ef9a#/pages/165259011/simulate/no-panels</a>
